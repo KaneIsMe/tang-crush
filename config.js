@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Chị iu ơi :<<',
-    introDesc: `Một ngày đẹp trời 2 ta gặp nhauu, tưởng chừng người lạa ai ngờ người iuu:33`,
+    introDesc: 'Gọii chị làa mặt trời vĩ đại còn em là trái đất, vì em sẽ vì chị mà phát cuồng đến nỗi quay quanh chị <33',
     btnIntro: 'ngạiii quáaa hihii',
     title: 'Awwwwww em đã iuuu chị từ cái nhìn đầu tiênnnn nèee 😙',
     desc: 'say chị còn say hơn cả say rượuuu ',
