@@ -1,19 +1,15 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    introTitle: 'Chị iu ơi :<<',
+    introDesc: `Một ngày đẹp trời 2 ta gặp nhauu, tưởng chừng người lạa ai ngờ người iuu:33`,
+    btnIntro: 'ngạiii quáaa hihii',
+    title: 'Awwwwww em đã iuuu chị từ cái nhìn đầu tiênnnn nèee 😙',
+    desc: 'say chị còn say hơn cả say rượuuu ',
+    btnYes: 'Mong chị vẫn thít em mãi nhoaaa:33 <33',
+    btnNo: 'Có cl nè bé =)))',
+    question:'Dòng đời đưa đẩyy sao chị lại đến bên emm:33',
+    btnReply: 'Reply cho em nhéeee',
+    reply: 'Yêu em hoặc bị hunnnnn aaaaaaa:33 <33',
+    mess: 'Thương emm nhiềuuuu:33 , Mãi juu Bé của anhhhh:333 <33',
+    messDesc: 'Mình gặp rồi d1t nhau em nhé =))) <3',
+    btnAccept: 'dạaaaa anhhiuuu:33 <3',
+    
